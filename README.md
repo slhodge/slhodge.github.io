@@ -1,3 +1,3 @@
 # slhodge.github.io
- Shemicka test
-Welcome to CTI110!
+
+Welcome to CTI110! this is it
